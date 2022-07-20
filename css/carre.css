@@ -1,0 +1,64 @@
+
+.un {
+  clip-path: polygon(50% 0, 100% 100%, 0 100%);
+  background: #008cff;
+  width: 200px;
+  height: 100px;
+ 
+  transform: translate(-0px, 49px) rotate(360deg);
+  transition: all 2s;
+  position: absolute;
+}
+.deux {
+  clip-path: polygon(50% 0, 100% 100%, 0 100%);
+  background: #e90c0c;
+  width: 200px;
+  height: 100px;
+  transform: translate(50px, -1px) rotate(270deg);
+  position: absolute;
+  transition: all 2s;
+}
+.trois {
+  clip-path: polygon(50% 0, 100% 100%, 0 100%);
+  background: #d3c500;
+  width: 100px;
+  height: 50px;
+  position: absolute;
+  transform: translate(-75px, 49px) rotate(90deg);
+  transition: all 2s;
+}
+.quatre {
+  clip-path: polygon(50% 0, 100% 100%, 0 100%);
+  background: #211844;
+  width: 100px;
+  height: 50px;
+  position: absolute;
+  transform: translate(-0px, -27px) rotate(180deg);
+  transition: all 2s;
+}
+.cinq {
+  clip-path: polygon(50% 0, 100% 100%, 0 100%);
+  background: #9fb1d4;
+  width: 143.33px;
+  height: 71.66px;
+  position: absolute;
+  transform: translate(-73px, -75px) rotate(-44deg);
+  transition: all 2s;
+}
+.six {
+  width: 70px;
+  height: 70px;
+  background: #d70ce9;
+  position: absolute;
+  transform: translate(-49px, -0px) rotate(45deg);
+  transition: all 2s;
+}
+.sept {
+  clip-path: polygon(38% 0%, 98% 0%, 68% 100%, 8% 100%);
+  width: 161px;
+  height: 45px;
+  background: #42e900;
+  position: absolute;
+  transform: translate(21px, -77px) rotate(-1deg);
+  transition: all 2s;
+}
